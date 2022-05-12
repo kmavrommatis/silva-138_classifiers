@@ -8,7 +8,7 @@ docker compose -f docker-compose.yml build qiime
 ```
 
 In the commands in the other pages replace 
-`qiime` with `docker run -ti -v $PWD:$PWD -w $PWD quay.io/qiime2/rescript:2022.2`
+`qiime` with `docker run -ti -v $PWD:$PWD -w $PWD quay.io/qiime2/rescript:2022.2 qiime`
 
 e.g.
 
