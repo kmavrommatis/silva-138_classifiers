@@ -39,7 +39,7 @@ They don't seem to be working anymore
 ---
 
 ### System Configuration:  
-**Processor (C/T):** AMD Ryzen 4600H (6/12)  
+**Processor (cores):** AMD Ryzen 4600H (64)  
 **RAM:** 64GB  
 **Swap:** 50GB  
 **TMP:** 50GB  
