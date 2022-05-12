@@ -1,0 +1,7 @@
+version: '3.2'
+services:
+   qiime:
+      build:
+        context: .
+        dockerfile: Dockerfile
+      image: quay.io/qiime2/rescript:2022.2
