@@ -39,7 +39,7 @@ They don't seem to be working anymore
 ---
 
 ### System Configuration:  
-**Processor (cores):** AMD Ryzen 4600H (64)  
+**Processor (vCPUs):** EC2 m5.4xlarge (16)  
 **RAM:** 64GB  
 **Swap:** 50GB  
 **TMP:** 50GB  
