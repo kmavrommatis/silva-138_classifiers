@@ -15,6 +15,9 @@ Feature Classifiers for different variable regions of Prokaryotic 16S rRNA genes
 
 <br>
 
+### Install RESCRIPt in QIIME
+- [Install](docker_update.md) RESCRIPt in the QIIME docker image
+
 ### Workflows with Files
 - Initial [workflow](Get_silva-138&filter.md) to download and curate the SILVA DB
 - Workflow for [**V1-V2** classifier](V1-V2_classifier.md)
