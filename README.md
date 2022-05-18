@@ -7,7 +7,7 @@ Feature Classifiers for different variable regions of Prokaryotic 16S rRNA genes
 
 <br>
 
-### Primers (from this [file](standard_primers.md)
+### Primers (from this [file](standard_primers.md))
 - **V1-V2:** 27f & 338r
 - **V3:** 341f & 518r
 - **V3-V4:** 341f & 805r
